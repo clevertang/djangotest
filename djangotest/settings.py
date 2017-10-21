@@ -1,3 +1,5 @@
+#!/usr/bin/Python
+# coding=utf-8
 """
 Django settings for djangotest project.
 

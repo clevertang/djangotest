@@ -1,3 +1,5 @@
+#!/usr/bin/Python
+# coding=utf-8
 from django.shortcuts import render
 from django.http import HttpResponseRedirect, HttpResponse
 import os
