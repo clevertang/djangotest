@@ -24,4 +24,4 @@ def moments_input(request):
 
 
 def welcome(request):
-    return HttpResponse('HELLO')
+    return HttpResponse('保存成功')
